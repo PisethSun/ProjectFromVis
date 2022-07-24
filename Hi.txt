@@ -1,0 +1,67 @@
+<!-- <div class = "vertical"></div> -->
+        <!-- <div class="row">
+            <div class="column">
+        <table>
+            <img src="./images/Joe_Biden.jpg" alt="president Biden">
+        </table>
+            <tr>
+              <th>President Biden</th>
+            </tr>
+            <tr>
+              <td>
+                <ul>
+                    <li>
+                        Make treaties with the approval of the Senate.
+                    </li>
+                    <li>
+                        Veto bills and sign bills.
+                    </li>
+                    <li>
+                        Call out troops to protect our nation against an attack.
+                    </li>
+                    <li>
+                        Cepresent our nation in talks with foreign countries.
+                    </li>
+                    <li>
+                        Act as Commander-in-Chief during a war.
+                    </li>
+
+                </ul>
+              </td>
+              
+            </tr>
+          </table>
+        </table>
+        <div class="column">
+            <table>
+            <img src="./images/Donald_Trump.jpg" alt="President Trump">
+            <tr>
+                <th>President Biden</th>
+              </tr>
+              <tr>
+                <td>
+                  <ul>
+                      <li>
+                          Make treaties with the approval of the Senate.
+                      </li>
+                      <li>
+                          Veto bills and sign bills.
+                      </li>
+                      <li>
+                          Call out troops to protect our nation against an attack.
+                      </li>
+                      <li>
+                          Cepresent our nation in talks with foreign countries.
+                      </li>
+                      <li>
+                          Act as Commander-in-Chief during a war.
+                      </li>
+  
+                  </ul>
+                </td>
+                
+              </tr>
+            </table>
+
+    </div>
+    </div> -->
